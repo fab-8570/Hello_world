@@ -1,2 +1,4 @@
 # Hello_world
-test-push-and-pull
+
+
+This repo should allow to test the push and pull from GitHub
